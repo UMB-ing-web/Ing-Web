@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Álbum de Tarjetas</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+</head>
+<body>
+    <div class="container p-3"> <!-- Margen alrededor del álbum -->
+        <div class="row">
+            <!-- Generando 9 tarjetas (3x3) -->
+            <!-- Tarjetas con margen inferior para separación -->
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <img src="thumbnail.jpg" class="card-img-top" alt="Thumbnail">
+                    <div class="card-body">
+                        <p class="card-text">This is a wider card with supporting text below.</p>
+                        <button class="btn btn-primary">View</button>
+                        <button class="btn btn-secondary">Edit</button>
+                        <small class="text-muted d-block mt-2">9 mins</small>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <img src="thumbnail.jpg" class="card-img-top" alt="Thumbnail">
+                    <div class="card-body">
+                        <p class="card-text">This is a wider card with supporting text below.</p>
+                        <button class="btn btn-primary">View</button>
+                        <button class="btn btn-secondary">Edit</button>
+                        <small class="text-muted d-block mt-2">9 mins</small>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <img src="thumbnail.jpg" class="card-img-top" alt="Thumbnail">
+                    <div class="card-body">
+                        <p class="card-text">This is a wider card with supporting text below.</p>
+                        <button class="btn btn-primary">View</button>
+                        <button class="btn btn-secondary">Edit</button>
+                        <small class="text-muted d-block mt-2">9 mins</small>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <img src="C:\Users\camilo\OneDrive\Escritorio\thumbnail.jpg" class="card-img-top" alt="Thumbnail">
+                    <div class="card-body">
+                        <p class="card-text">This is a wider card with supporting text below.</p>
+                        <button class="btn btn-primary">View</button>
+                        <button class="btn btn-secondary">Edit</button>
+                        <small class="text-muted d-block mt-2">9 mins</small>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <img src="C:\Users\camilo\OneDrive\Escritorio\thumbnail.jpg" class="card-img-top" alt="Thumbnail">
+                    <div class="card-body">
+                        <p class="card-text">This is a wider card with supporting text below.</p>
+                        <button class="btn btn-primary">View</button>
+                        <button class="btn btn-secondary">Edit</button>
+                        <small class="text-muted d-block mt-2">9 mins</small>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <img src="C:\Users\camilo\OneDrive\Escritorio\thumbnail.jpg" class="card-img-top" alt="Thumbnail">
+                    <div class="card-body">
+                        <p class="card-text">This is a wider card with supporting text below.</p>
+                        <button class="btn btn-primary">View</button>
+                        <button class="btn btn-secondary">Edit</button>
+                        <small class="text-muted d-block mt-2">9 mins</small>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <img src="C:\Users\camilo\OneDrive\Escritorio\thumbnail.jpg" class="card-img-top" alt="Thumbnail">
+                    <div class="card-body">
+                        <p class="card-text">This is a wider card with supporting text below.</p>
+                        <button class="btn btn-primary">View</button>
+                        <button class="btn btn-secondary">Edit</button>
+                        <small class="text-muted d-block mt-2">9 mins</small>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <img src="C:\Users\camilo\OneDrive\Escritorio\thumbnail.jpg" class="card-img-top" alt="Thumbnail">
+                    <div class="card-body">
+                        <p class="card-text">This is a wider card with supporting text below.</p>
+                        <button class="btn btn-primary">View</button>
+                        <button class="btn btn-secondary">Edit</button>
+                        <small class="text-muted d-block mt-2">9 mins</small>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4 mb-4">
+                <div class="card">
+                    <img src="C:\Users\camilo\OneDrive\Escritorio\thumbnail.jpg" class="card-img-top" alt="Thumbnail">
+                    <div class="card-body">
+                        <p class="card-text">This is a wider card with supporting text below.</p>
+                        <button class="btn btn-primary">View</button>
+                        <button class="btn btn-secondary">Edit</button>
+                        <small class="text-muted d-block mt-2">9 mins</small>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+</body>
+</html>
